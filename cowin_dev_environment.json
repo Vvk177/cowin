@@ -1,0 +1,19 @@
+{
+	"id": "456fe256-4bb2-4208-9135-6e1152a03273",
+	"name": "Cowin-Dev",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public",
+			"enabled": true
+		},
+		{
+			"key": "endpoint",
+			"value": "findByPin",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-06-10T20:58:15.816Z",
+	"_postman_exported_using": "Postman/8.6.0-canary210531-1009"
+}
